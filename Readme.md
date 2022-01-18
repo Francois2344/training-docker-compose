@@ -1,1 +1,3 @@
-# quest 1726
+### Commande de lancement
+
+**docker-compose -f docker-compose.dev.yml up --build**
